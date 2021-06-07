@@ -8,5 +8,5 @@ Your task is to find the sum of the length of all lines (in kms) that can be dra
 * If co-ordinates are missing for any country use 0.000 N 0.000 E
 
 *Population limit: 1000*
-*Note: Population limit will change at random intervals. So please make sure answer is computed for the correct population limit before submitting.*
-*(meaning population limit can be a random number, could be 1000, 34252, 799, 2452477 etc)*
+
+*Note: Population limit will change at random intervals. So please make sure answer is computed for the correct population limit before submitting. Which means population limit can be a random number, could be 1000, 34252, 799, 2452477 etc*
